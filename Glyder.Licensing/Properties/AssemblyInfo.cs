@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("GlyderLicensing")]
+[assembly: AssemblyTitle("Glyder.Licensing")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("GlyderLicensing")]
+[assembly: AssemblyProduct("Glyder.Licensing")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("7544772b-aee2-422f-a3a3-5c7ec534188f")]
+[assembly: Guid("98bdfc7b-32ae-4509-86e9-7d1fd2b916a1")]
 
 // Version information for an assembly consists of the following four values:
 //

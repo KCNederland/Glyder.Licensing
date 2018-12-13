@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace GlyderLicencing.Properties
+namespace GlyderLicensing.Properties
 {
 
 
